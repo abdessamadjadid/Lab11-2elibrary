@@ -1,0 +1,3 @@
+[submodule "elibrary2"]
+	path = elibrary2
+	url = ./elibrary2
